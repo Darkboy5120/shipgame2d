@@ -1,0 +1,9 @@
+.gameCore {
+  height: inherit;
+  width: inherit;
+  
+  .ship {
+    background-color: red;
+    position: absolute;
+  }
+}
